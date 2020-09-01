@@ -1,0 +1,2 @@
+rootProject.name='AAS2Client'
+include ':app'

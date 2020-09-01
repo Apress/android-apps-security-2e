@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AAS2Client</string>
+    <string name="loader">[Code Appears Here]</string>
+    <string name="instructions">In order to view the secret information, you must supply the correct code below.</string>
+    <string name="submit">Submit Code</string>
+    <string name="codePH">Type in the code</string>
+</resources>
